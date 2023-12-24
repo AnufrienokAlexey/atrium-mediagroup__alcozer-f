@@ -1,0 +1,73 @@
+Log created: 2023-12-14 03:17:46
+Type: backup
+[2023-12-14 03:17:46][notice]Start backing up.
+[2023-12-14 03:17:46][notice]server info fcgi:On max execution time: 180 wp version:6.4.2 php version:8.2.12 db version:5.7.21 php ini:safe_mode: memory_limit:256M memory_get_usage:59,27 МБ memory_get_peak_usage:60,05 МБ extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-12-14 03:17:46][notice]Prepare to backup backup_db files.
+[2023-12-14 03:17:46][notice]Start exporting database.
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_links
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_term_relationships
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_commentmeta
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_postmeta
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_term_taxonomy
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_termmeta
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_terms
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_usermeta
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_users
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_comments
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_posts
+[2023-12-14 03:17:46][notice]Preparing to dump table wp_options
+[2023-12-14 03:17:46][notice]Exporting database finished.
+[2023-12-14 03:17:46][notice]Start compressing database
+[2023-12-14 03:17:46][notice]Prepare to zip file. file: yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_db.sql
+[2023-12-14 03:17:46][notice]Adding zip files completed.yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_db.part001.zip, filesize: 338,43 КБ
+[2023-12-14 03:17:46][notice]Compressing database completed
+[2023-12-14 03:17:46][notice]Backing up backup_db completed.
+[2023-12-14 03:17:46][notice]Prepare to backup backup_themes files.
+[2023-12-14 03:17:46][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_themes.part001.zip index:500
+[2023-12-14 03:17:48][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_themes.part001.zip success. index:500 file size:23,66 МБ
+[2023-12-14 03:17:48][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_themes.part001.zip index:1000
+[2023-12-14 03:17:48][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_themes.part001.zip success. index:1000 file size:25,72 МБ
+[2023-12-14 03:17:49][notice]Backing up backup_themes completed.
+[2023-12-14 03:17:49][notice]Prepare to backup backup_plugin files.
+[2023-12-14 03:17:49][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_plugin.part001.zip index:500
+[2023-12-14 03:17:50][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_plugin.part001.zip success. index:500 file size:4,56 МБ
+[2023-12-14 03:17:50][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_plugin.part001.zip index:1000
+[2023-12-14 03:17:51][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_plugin.part001.zip success. index:1000 file size:7,36 МБ
+[2023-12-14 03:17:51][notice]Backing up backup_plugin completed.
+[2023-12-14 03:17:51][notice]Prepare to backup backup_uploads files.
+[2023-12-14 03:17:51][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_uploads.part001.zip index:500
+[2023-12-14 03:17:52][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_uploads.part001.zip success. index:500 file size:11,55 МБ
+[2023-12-14 03:17:52][notice]Backing up backup_uploads completed.
+[2023-12-14 03:17:52][notice]Prepare to backup backup_content files.
+[2023-12-14 03:17:52][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_content.part001.zip index:500
+[2023-12-14 03:17:52][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_content.part001.zip success. index:500 file size:1,10 МБ
+[2023-12-14 03:17:53][notice]Backing up backup_content completed.
+[2023-12-14 03:17:53][notice]Prepare to backup backup_core files.
+[2023-12-14 03:17:53][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip index:500
+[2023-12-14 03:17:53][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip success. index:500 file size:2,05 МБ
+[2023-12-14 03:17:53][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip index:1000
+[2023-12-14 03:17:55][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip success. index:1000 file size:9,08 МБ
+[2023-12-14 03:17:55][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip index:1500
+[2023-12-14 03:17:55][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip success. index:1500 file size:9,49 МБ
+[2023-12-14 03:17:55][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip index:2000
+[2023-12-14 03:17:56][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip success. index:2000 file size:11,02 МБ
+[2023-12-14 03:17:56][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip index:2500
+[2023-12-14 03:17:57][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip success. index:2500 file size:13,14 МБ
+[2023-12-14 03:17:57][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip index:3000
+[2023-12-14 03:17:57][notice]Compressing zip file:yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.part001.zip success. index:3000 file size:13,65 МБ
+[2023-12-14 03:17:57][notice]Backing up backup_core completed.
+[2023-12-14 03:17:57][notice]Prepare to backup backup_merge files.
+[2023-12-14 03:17:57][notice]Prepare to zip file. file: yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_db.zip
+[2023-12-14 03:17:57][notice]Adding zip files completed.yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_all.part001.zip, filesize: 337,89 КБ
+[2023-12-14 03:17:57][notice]Prepare to zip file. file: yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_themes.zip
+[2023-12-14 03:17:59][notice]Adding zip files completed.yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_all.part001.zip, filesize: 25,97 МБ
+[2023-12-14 03:17:59][notice]Prepare to zip file. file: yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_plugin.zip
+[2023-12-14 03:17:59][notice]Adding zip files completed.yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_all.part001.zip, filesize: 33,15 МБ
+[2023-12-14 03:17:59][notice]Prepare to zip file. file: yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_uploads.zip
+[2023-12-14 03:18:00][notice]Adding zip files completed.yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_all.part001.zip, filesize: 44,69 МБ
+[2023-12-14 03:18:00][notice]Prepare to zip file. file: yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_content.zip
+[2023-12-14 03:18:00][notice]Adding zip files completed.yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_all.part001.zip, filesize: 45,79 МБ
+[2023-12-14 03:18:00][notice]Prepare to zip file. file: yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_core.zip
+[2023-12-14 03:18:01][notice]Adding zip files completed.yanmart.ru_wpvivid-657a49aa05e43_2023-12-14-03-17_backup_all.part001.zip, filesize: 59,07 МБ
+[2023-12-14 03:18:02][notice]Backing up backup_merge completed.
+[2023-12-14 03:18:02][notice]Backup completed.
